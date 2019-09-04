@@ -16,7 +16,7 @@ This syllabus may be updated prior to and throughout the semester by Dr. Greenha
 
 ## Response Time
 
-From Monday to Friday, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Most of your assessments are due on Sundays, so please keep this in mind! In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
+From **Monday** to **Friday**, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Most of your assessments are due on Sundays, so please keep this in mind! In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
 
 ## Office Hours
 
